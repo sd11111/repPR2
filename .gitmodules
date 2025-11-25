@@ -1,0 +1,3 @@
+[submodule "submodules/editor_submodule"]
+	path = submodules/editor_submodule
+	url = https://github.com/sd11111/editor-submodule.git
